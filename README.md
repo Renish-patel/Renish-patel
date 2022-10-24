@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Renish-patel
-- 👀 I’m interested in WEB DEVELOPMENT..
+- 👋 Hi, I’m @Renish-patel.
 - 🌱 I’m currently learning JAVA..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me renishpate2482001@gmail.com
